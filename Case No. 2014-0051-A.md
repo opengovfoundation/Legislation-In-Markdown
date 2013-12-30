@@ -45,8 +45,8 @@ If the B.C.Z.R. were strictly interpreted the Petitioners would indeed suffer a 
 
 The relief granted herein shall be subject to the following:
 
-* Petitioners may apply for appropriate permits and be granted same upon receipt of this Order; however, Petitioners are hereby made aware that proceeding at this time is at their own risk until such time as the 30-day appellate process from this Order has expired. If, for whatever reason, this Order is reversed, Petitioners would be required to return, and be responsible for returning, said property to its original condition.
-* There shall be no more than two (2) wall mounted signs on the exterior of the building on the subject premises.
-* Should Brotman vacate the premises, the sign approved herein shall be removed within 90 days of the tenant’s departure.
-* The variance relief granted herein shall be personal to Brotman, and shall not run with the land.
+  * Petitioners may apply for appropriate permits and be granted same upon receipt of this Order; however, Petitioners are hereby made aware that proceeding at this time is at their own risk until such time as the 30-day appellate process from this Order has expired. If, for whatever reason, this Order is reversed, Petitioners would be required to return, and be responsible for returning, said property to its original condition.
+  * There shall be no more than two (2) wall mounted signs on the exterior of the building on the subject premises.
+  * Should Brotman vacate the premises, the sign approved herein shall be removed within 90 days of the tenant’s departure.
+  * The variance relief granted herein shall be personal to Brotman, and shall not run with the land.
 Any appeal of this decision must be made within thirty (30) days of the date of this Order.
