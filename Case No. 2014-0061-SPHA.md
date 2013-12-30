@@ -24,8 +24,8 @@ This matter comes before the Office of Administrative Hearings (OAH) for conside
 The subject property is 10,200 +/-square feet in size and is zoned RC-5. The property is improved with a small single family dwelling (828 SF) and a detached garage (22' x 48', or 1,056 SF). In 2010, former Deputy Zoning Commissioner Bostwick granted variance relief for the construction of the garage, with a height of 18' in lieu of the maximum 15'. Case No.: 20100213-A. It was later discovered the height of the garage is in fact 22', which necessitated the filing of another variance petition. The Petitioners were also instructed to seek Special Hearing relief given that the garage will be (slightly) larger than the single family dwelling, and will also exceed (by 150 SF) the 900 SF area limitation in a tidal floodplain.
 As noted above, the garage is an existing condition, and I will therefore grant the Special Hearing relief. The Petitioners used siding on the garage to match their home, and they indicated their neighbors expressed support for the project, which (given the small dwelling) is used for family storage, yard equipment and a golf cart.
 Based upon the testimony and evidence presented, I will also grant the petition for variance. To obtain variance relief a petitioner must show:
-1. The property is unique; and
-2. If variance relief is denied, Petitioner will experience a practical difficulty or hardship.
+  * (1) The property is unique; and
+  * (2) If variance relief is denied, Petitioner will experience a practical difficulty or hardship.
 
 *Trinity Assembly of God v. People’s Counsel*, 407 Md. 53, 80 (2008).
 
