@@ -22,6 +22,6 @@ THEREFORE, IT IS ORDERED, this <u>5th</u> day of November, 2013 by the Administr
 
 The relief granted herein shall be subjected to the following:
 
-* Petitioners may apply for any appropriate permits and be granted same upon receipt of this Order; however, Petitioners are hereby made aware that proceeding at this time is at her own risk until such time as the 30-day appellate process from this Order has expired. If, for whatever reason, this Order is reversed, Petitioners would be required to return, and be responsible for returning, said property to its original condition.
+* 1. Petitioners may apply for any appropriate permits and be granted same upon receipt of this Order; however, Petitioners are hereby made aware that proceeding at this time is at her own risk until such time as the 30-day appellate process from this Order has expired. If, for whatever reason, this Order is reversed, Petitioners would be required to return, and be responsible for returning, said property to its original condition.
 
 Any Appeal of this decision must be made within (30) days of the date of this Order.
