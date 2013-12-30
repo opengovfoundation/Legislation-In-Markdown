@@ -22,7 +22,7 @@ THEREFORE, IT IS ORDERED, this <u>31st</u> day of October, 2013 by the Administr
 
 The relief granted herein shall be subject to the following:
 
-1. Petitioners may apply for any appropriate permits and be granted same upon receipt of this Order; however, Petitioners are hereby made aware that proceeding at this time is at their own risk until such time as the 30-day appellate process from this Order has expired. If, for whatever reason, this Order is reversed, Petitioners would be required to return, and be responsible for returning, said property to its original condition.
-2. The Petitioners must comply with the ZAC comment submitted by the DOP dated October 18, 2013; a copy of which is attached hereto and made a part hereof.
+* 1. Petitioners may apply for any appropriate permits and be granted same upon receipt of this Order; however, Petitioners are hereby made aware that proceeding at this time is at their own risk until such time as the 30-day appellate process from this Order has expired. If, for whatever reason, this Order is reversed, Petitioners would be required to return, and be responsible for returning, said property to its original condition.
+* 2. The Petitioners must comply with the ZAC comment submitted by the DOP dated October 18, 2013; a copy of which is attached hereto and made a part hereof.
 
 Any appeal of this decision must be made within (30) days of the date of this Order.
