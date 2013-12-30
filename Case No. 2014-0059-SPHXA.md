@@ -37,8 +37,8 @@ This matter comes before the Office of Administrative Hearings (OAH) for Baltimo
 Under Maryland law, a special exception use enjoys a presumption that it is in the interest of the general welfare, and therefore, valid. <u>Schultz v. Pritts</u>, 291 Md. 1 (1981). In fact, as noted by counsel, the <u>Schultz</u> case also involved a funeral home in a residential zone, and the court noted that such a use is appropriate even though “there can be no doubt that an undertaking business has an inherent depressing and disturbing psychological effect which may adversely affect persons residing in the immediate neighborhood.” <u>Id.</u> at 13. The <u>Schultz</u> standard was revisited in <u>People’s Counsel v. Loyola College</u>, 406 Md. 54 (2008), where the court emphasized that a special exception is properly denied only when there are facts and circumstances showing that the adverse impacts of the use at the particular location in question would be above and beyond those inherently associated with the special exception use. Such evidence was not presented here, and thus the petition will be granted.
 <u>VARIANCES</u>
 Based upon the testimony and evidence presented, I will also grant the petition for variance. To obtain variance relief requires a showing that:
-1. The property is unique; and
-2. If variance relief is denied, petitioner will experience a practical difficulty or hardship. 
+  * (1) The property is unique; and
+  * (2) If variance relief is denied, petitioner will experience a practical difficulty or hardship. 
 
 *Trinity Assembly of God v. People’s Counsel*, 407 Md. 53, 80 (2008).
 
