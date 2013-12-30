@@ -15,13 +15,13 @@ The property was posted with the Notice of Hearing Officer’s Hearing (on Septe
 
 In addition to the Hearing Officer’s Hearing (HOH), the Developer is requesting the following zoning relief:
 
-1. From §§1B01.2.C.1.c and 504.2 of the B.C.Z.R. and from of the B.C.Z.R. and the Comprehensive Manual Development Plan (CMDP), Division II, Section A: Residential Standards Table VII, to permit a side building face to side building face setback of 20' in lieu of the required 25' setback,
-2. From §301.1 of the B.C.Z.R. to permit a one story open porch to extend into a required yard not more than 50% of the minimum required depth of a required yard in lieu of the required maximum of 25%,
-3. From §§1B02.2 and 504.2 of the B.C.Z.R. and the CMDP, Division II, Section A: Residential Standards Table VII, to permit a building with a height of 58' in lieu of the permitted 50',
-4. From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 29, to permit the more than 6 townhouse units in a row,
-5. From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 28, to permit the construction of townhouses with a width of 16' in lieu of the required 20',
-6. From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 28, to permit 5' rear yard access easement and variable width Storm Water Management Easement to cross through the required 500 square foot private yard area, and
-7. For such other and further relief as the nature of this cause may require. 
+  * (1) From §§1B01.2.C.1.c and 504.2 of the B.C.Z.R. and from of the B.C.Z.R. and the Comprehensive Manual Development Plan (CMDP), Division II, Section A: Residential Standards Table VII, to permit a side building face to side building face setback of 20' in lieu of the required 25' setback,
+  * (2) From §301.1 of the B.C.Z.R. to permit a one story open porch to extend into a required yard not more than 50% of the minimum required depth of a required yard in lieu of the required maximum of 25%,
+  * (3) From §§1B02.2 and 504.2 of the B.C.Z.R. and the CMDP, Division II, Section A: Residential Standards Table VII, to permit a building with a height of 58' in lieu of the permitted 50',
+  * (4) From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 29, to permit the more than 6 townhouse units in a row,
+  * (5) From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 28, to permit the construction of townhouses with a width of 16' in lieu of the required 20',
+  * (6) From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 28, to permit 5' rear yard access easement and variable width Storm Water Management Easement to cross through the required 500 square foot private yard area, and
+  * (7) For such other and further relief as the nature of this cause may require. 
 
 Appearing at the requisite Hearing Officer’s Hearing in support of the Development Plan on behalf of the Developer and property owner was Jonathan Ehrenfeld, and Richard (Dick) E. Matz, P.E., with Colbert, Matz & Rosenfelt, Inc., the consulting firm that prepared the site plan. Timothy M. Kotroco, Esquire and John B. Gontrum, Esquire, both with Whiteford, Taylor & Preston, LLP, appeared and represented the Developer.
 
@@ -47,8 +47,8 @@ Of course, whether or not a Developer maximizes its profits is not part of the c
 The Baltimore County Code clearly provides that the “Hearing Officer shall grant approval of a development plan that complies with these development regulations and applicable policies, rules and regulations.” B.C.C. §32-4-229. After due consideration of the testimony and evidence presented by the Developer, the exhibits offered at the hearing, and confirmation from County agencies (with the exception of the DOP) that the development plan satisfies those agencies’ requirements, I find that the Developer has satisfied its burden of proof and, therefore, is entitled to approval of the redlined Development Plan. After carefully considering the comments and objections from the DOP, I will impose certain conditions designed to ensure that the project complies to the greatest extent possible with the goals of the CMDP.
 <u>ZONING REQUESTS VARIANCES</u>In addition to the Development Plan approval, the Developer sought variances under the B.C.Z.R. and CMDP for certain setbacks and standards. Each of the variance requests was described in detail earlier in this Opinion.
 Based upon the testimony and evidence presented, I will grant the requests for variance relief. Under Maryland law, to obtain variance relief requires a showing that:
-1. The property is unique; and
-2. If variance relief is denied, Petitioner will experience a practical difficulty or hardship.
+  * (1) The property is unique; and
+  * (2) If variance relief is denied, Petitioner will experience a practical difficulty or hardship.
 
 *Trinity Assembly of God v. People’s Counsel*, 407 Md. 53, 80 (2008).
 
@@ -58,18 +58,20 @@ In addition, the Developer would suffer a practical difficulty if the regulation
 Pursuant to the advertisement, posting of the property, and public hearing held thereon, the requirements of which are contained in Article 32, Title 4, of the Baltimore County Code, the Dolfield Townhouses Development Plan shall be granted consistent with the comments contained herein and the conditions noted below.
 THEREFORE, IT IS ORDERED by this Administrative Law Judge/Hearing Officer for Baltimore County, this <u>15th</u> day of November, 2013, that the three (3) sheet redlined **“DOLFIELD TOWNHOUSES”** Development Plan, marked and accepted into evidence as Developer’s Exhibit 1A-1C, be and is hereby **APPROVED**.
 IT IS FURTHER ORDERED that the Petition for Variance seeking relief as follows:
-1. From §§1B01.2.C.1.c and 504.2 of the B.C.Z.R. and from of the B.C.Z.R. and the Comprehensive Manual Development Plan (CMDP), Division II, Section A: Residential Standards Table VII, to permit a side building face to side building face setback of 20' in lieu of the required 25' setback,
-2. From §301.1 of the B.C.Z.R. to permit a one story open porch to extend into a required yard not more than 50% of the minimum required depth of a required yard in lieu of the required maximum of 25%,
-3. From §§1B02.2 and 504.2 of the B.C.Z.R. and the CMDP, Division II, Section A: Residential Standards Table VII, to permit a building with a height of 58' in lieu of the permitted 50',
-4. From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 29, to permit the more than 6 townhouse units in a row,
-5. From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 28, to permit the construction of townhouses with a width of 16' in lieu of the required 20', and
-6. From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 28, to permit 5' rear yard access easement and variable width Storm Water Management Easement to cross through the required 500 square foot private yard area, be and is hereby GRANTED.
+  * (1) From §§1B01.2.C.1.c and 504.2 of the B.C.Z.R. and from of the B.C.Z.R. and the Comprehensive Manual Development Plan (CMDP), Division II, Section A: Residential Standards Table VII, to permit a side building face to side building face setback of 20' in lieu of the required 25' setback,
+  * (2) From §301.1 of the B.C.Z.R. to permit a one story open porch to extend into a required yard not more than 50% of the minimum required depth of a required yard in lieu of the required maximum of 25%,
+  * (3) From §§1B02.2 and 504.2 of the B.C.Z.R. and the CMDP, Division II, Section A: Residential Standards Table VII, to permit a building with a height of 58' in lieu of the permitted 50',
+  * (4) From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 29, to permit the more than 6 townhouse units in a row,
+  * (5) From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 28, to permit the construction of townhouses with a width of 16' in lieu of the required 20', and
+  * (6) From CMDP, Modification of Standards, Division II, Section A, Residential Standards, Page 28, to permit 5' rear yard access easement and variable width Storm Water Management Easement to cross through the required 500 square foot private yard area, 
+  
+be and is hereby GRANTED.
 
 The Development Plan and zoning approvals herein are expressly subject to and conditioned upon the following:
 
-1. Developer shall construct at its own expense a 10' high fence between the subject property and the adjoining apartment complex known as the “Painters Mill Apartments.”
-2. The Developer shall construct at its own expense a “tot lot” or playground in the northern portion of the site marked as “H.O.A. Area.” The amenity shall be of sufficient size to accommodate the residents of the development approved herein, and is subject to the approval of the Baltimore County Landscape Architect and/or DOP.
-3. The Developer shall provide at its own expense the necessary right-of-way to connect Campbell Avenue (a paper street) to Blue Ocean Way, the entire length of which shall be a public road constructed to Baltimore County standards. The Developer shall not be responsible for any costs associated with the design and/or construction of Campbell Avenue.
-4. The twenty (20) townhouse units shall be for rental only, and shall be designed with brick exteriors on the front of the units (as well as on the sides of the end units). The pattern book shall be amended to reflect these design elements and is subject to the approval of the DOP.
+  * 1. Developer shall construct at its own expense a 10' high fence between the subject property and the adjoining apartment complex known as the “Painters Mill Apartments.”
+  * 2. The Developer shall construct at its own expense a “tot lot” or playground in the northern portion of the site marked as “H.O.A. Area.” The amenity shall be of sufficient size to accommodate the residents of the development approved herein, and is subject to the approval of the Baltimore County Landscape Architect and/or DOP.
+  * 3. The Developer shall provide at its own expense the necessary right-of-way to connect Campbell Avenue (a paper street) to Blue Ocean Way, the entire length of which shall be a public road constructed to Baltimore County standards. The Developer shall not be responsible for any costs associated with the design and/or construction of Campbell Avenue.
+  * 4. The twenty (20) townhouse units shall be for rental only, and shall be designed with brick exteriors on the front of the units (as well as on the sides of the end units). The pattern book shall be amended to reflect these design elements and is subject to the approval of the DOP.
 
-Any appeal of this Order shall be taken in accordance with Baltimore County Code, §32-4-281.
+Any appeal of this Order shall be taken in accordance with Baltimore County Code, §32-4-281.
