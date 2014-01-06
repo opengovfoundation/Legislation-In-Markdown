@@ -1,0 +1,6 @@
+**IN RE: PETITION FOR VARIANCE****(2235 York Road)** 8th Election District3rd Councilman District Eugene Lipman, Authorized RepresentativeYork Road 2301, Inc. Petitioner
+
+---BEFORE THE OFFICE
+OF ADMINISTRATIVE
+HEARINGS FOR 
+BALTIMORE COUNTY **CASE NO. 2014-0017-A** --- **<u>ORDER ON MOTION FOR RECONSIDERATION</u>**Now pending is the Petitioner’s Motion for Reconsideration, and a short response thereto filed by the Office of People’s Counsel. The Motion seeks an additional aspect of variance relief beyond the variances granted in the Order dated September 11, 2013. The additional variance concerns the size of a circular sign (wall mounted) for the proposed restaurant. As noted by Mr. Zimmerman, the grant of additional zoning relief would typically require a Petitioner to provide notice, as provided in the B.C.Z.R. But in the circumstances of this case, I believe the variance for the size of the circular sign is a “lesser included” or subsidiary aspect of the relief granted in the prior Order, and that notice of such request was therefore not required. WHEREFORE, the Petitioner’s Motion for Reconsideration seeking an additional variance for a circular sign (as shown on Petitioner’s Exhibit 1B) with a face area of 65 square feet, in lieu of the maximum permitted 50 square feet, be and is hereby GRANTED.
