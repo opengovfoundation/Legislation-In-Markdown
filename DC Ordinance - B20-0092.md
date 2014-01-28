@@ -1,0 +1,11 @@
+->AN ACT<-
+
+--- ->IN THE COUNCIL OF THE DISTRICT OF COLUMBIA<-
+
+---To amend the Business Improvement Districts Act of 1996 to update the maximum allowable BID tax due to the Capitol Hill Business Improvement District.
+  * BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Capitol Hill Business Improvement District Amendment Act of 2013".  * Sec. 2. Section 204(c) of the Business Improvement Districts Act of 1996, effective March 17, 2005 (D.C. Law 15257; D.C. Official Code &sect; 21215.54(c)), is amended as follows:  * (a) Paragraph (2) is amended to read as follows:    * "(2) Notwithstanding paragraph (1) of this subsection, the total BID tax due for tax year 2013 on a single tax lot or a group of functionally integrated contiguous tax lots under common ownership in the Capitol Hill BID shall not exceed $75,000, with the amount to be allocated among the lots in proportion to their assessed values as determined by the Office of Tax and Revenue."."
+  * (b) A new paragraph (3) is added to read as follows:     * "(3) Notwithstanding paragraph (1) of this subsection, the total BID tax due for tax years 2014 and thereafter on a single tax lot or a group of functionally integrated contiguous tax lots under common ownership in the Capitol Hill BID shall not exceed $125,000 in any tax year, with the amount to be allocated among the lots in proportion to their assessed values as determined by the Office of Tax and Revenue."".   * Sec. 3. Fiscal impact statement.   * The Council adopts the fiscal impact statement in the committee report as the fiscal impact statement required by section 602(c)(3) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code &sect; 1206.02(c)(3)).   * Sec. 4. Effective date.   * This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30day period of Congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code &sect; 1206.02(c)(1)), and publication in the District of Columbia Register. ---Chairman 
+Council of the District of Columbia 
+---Mayor 
+
+District of Columbia  
