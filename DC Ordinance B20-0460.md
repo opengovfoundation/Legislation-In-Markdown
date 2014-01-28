@@ -1,0 +1,25 @@
+
+__________________________.Chairman Phil Mendelson 
+
+__________________________.
+
+Councilmember Tommy Wells 2 __________________________.Councilmember Marion Barry 
+
+__________________________.
+Councilmember Kenyan McDuffie__________________________.
+Councilmember Anita Bonds
+__________________________.
+Councilmember Mary M Cheh
+__________________________.   Councilmember Yvette Alexander
+
+__________________________.Councilmember David Grosso
+->A BILL<-
+
+---
+->IN THE COUNCIL OF THE DISTRICT OF COLUMBIA<----
+Councilmembers Tommy Wells introduced the following bill, which was referred to the committee on _____________________________.  To amend The Minimum Wage Act Revision Act of 1992 to modernize the District's minimum wage law to provide a living wage for all workers; to amend Title 47 of the District of Columbia Official Code to increase the standard deduction for District tax payers to keep more of the income they earn, and to establish a small business property tax credit to reduce costs to employers.
+   * BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 33 act may be cited as the "Living Wage for All Act of 2013".
+ Sec. 2. Increasing the Minimum Wage for All DC Workers
+   * Section 4 of the Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code &sect; 32-1003), is amended as follows:
+   * (a) Subsection (a) is amended to read as follows: 38   * "(a)(1) Except as provided in subsection (h) of this section, as of July 31, 2014, the minimum wage required to be paid to any employee by any employer in the District of Columbia shall be $9.25 an hour, or the minimum wage set by the United States government pursuant to the Fair Labor Standards Act (29 U.S.C. &sect; 206 *et seq.*) ("Fair Labor Standards Act"), plus $1, whichever is greater.    * "(2) Except as provided in subsection (h) of this section, as of July 31, 2015, the minimum wage required to be paid to any employee by any employer in the District of Columbia shall be $10.25 an hour, or the minimum wage set by the United States government pursuant to the Fair Labor Standards Act, plus $1, whichever is greater.    * "(3) Except as provided in subsection (h) of this section, s of July 31, 2016, the minimum wage required to be paid to any employee by any employer in the District of Columbia shall be increased on an annual basis using a rate equivalent to the Consumer Price Index-Urban index, or the minimum wage set by the United States government pursuant to the Fair Labor Standards Act, whichever is greater.".Sec. 3. Adjustment of standard deduction to aid all DC 
+taxpayers; Small business employer tax credit.  * Title 47 of the District of Columbia Official Code is amended as follows:   * (a) Section 47-1801.04(44) is amended  as follows:    * (1) Subparagraph (A) is amended by striking the number "$4,000" and inserting the number "$6,400" in its place.    * (2) Subparagraph (B) is amended by striking the number "$2,000" and inserting the number "$3,200" in its place."  * (b) A new section 47-__ is added to read as follows:  * "47-__ Small business employer tax credit.  * "(a) A retail establishment, as defined by &sect; 47-2001(m), or restaurant, as defined by &sect;47-24 2827(e)(2), may apply to the Office of Tax and Revenue for a tax credit under this subsection that shall be calculated as follows:    * "(1) A business with gross receipts less than $750,000.00 for a given year, shall be eligible for a tax credit equal to 25% of the property taxes assessed, or the applicable portion of property tax assessed to the building when in a triple-net lease.    * "(2) A business with gross receipts between $750,000.00 and $1,750,000.00 for a given year, shall be eligible for a tax credit equal to 20% of the property taxes assessed, or the applicable portion of property tax assessed to the building when in a triple-net lease.    * "(3) A business with gross receipts between $1,750,000.00 and $2,500,000.00 for a given year, shall be eligible for a tax credit equal to 15% of the property taxes assessed, or the applicable portion of property tax assessed to the building when in a triple-net lease."  * (c) Paragraphs (a) and (b) are effective July 31, 2014.  * Sec. 4. Fiscal impact statement.   * The Council adopts the fiscal impact statement in the committee report as the fiscal impact statement required by section 602(c)(3) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code &sect; 1-206.02(c)(3)).  * Sec. 5. Effective date.  * This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of Congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code &sect; 1-206.02(c)(1)), and publication in the District of Columbia Register.
